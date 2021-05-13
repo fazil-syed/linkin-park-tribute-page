@@ -1,0 +1,13 @@
+
+
+
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: none;
+    padding: 10px;
+}
+
